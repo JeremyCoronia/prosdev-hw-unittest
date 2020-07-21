@@ -30,4 +30,5 @@ D | Did not Meet Expectation | 74.99 and below
 
 ## Results
 *TODO: Insert screenshot of the results from the command line*
+Image:
 ![image result](src/screencap.png "Image result after running `npm install`")
